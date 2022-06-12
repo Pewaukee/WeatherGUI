@@ -1,0 +1,7 @@
+Input time ~ 21:00:07
+--------------
+Location: bedford ma
+Local time (when submit was pressed): Wednesday 12:00 AM
+Weather: 57°F
+Condition: Light rain showers
+

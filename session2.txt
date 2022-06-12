@@ -1,0 +1,35 @@
+Input time ~ 15:56:41
+--------------
+Location: henderson
+Local time (when submit was pressed): Wednesday 3:56 PM
+Weather: 90°F
+Condition: Sunny
+
+Input time ~ 15:56:55
+--------------
+Location: montana
+Local time (when submit was pressed): Wednesday 4:56 PM
+Weather: 68°F
+Condition: Partly cloudy
+
+Input time ~ 15:57:07
+--------------
+Location: india
+Local time (when submit was pressed): Thursday 4:27 AM
+Weather: 86°F
+Condition: Light drizzle
+
+Input time ~ 15:57:28
+--------------
+Location: henderson
+Local time (when submit was pressed): Wednesday 3:57 PM
+Weather: 90°F
+Condition: Sunny
+
+Input time ~ 15:57:31
+--------------
+Location: india
+Local time (when submit was pressed): Thursday 4:27 AM
+Weather: 86°F
+Condition: Light drizzle
+

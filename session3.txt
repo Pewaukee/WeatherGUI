@@ -1,0 +1,28 @@
+Input time ~ 18:47:03
+--------------
+Location: pewaukee
+Local time (when submit was pressed): Thursday 8:47 PM
+Weather: 67°F
+Condition: Clear
+
+Input time ~ 18:47:23
+--------------
+Location: california
+Local time (when submit was pressed): Thursday 6:47 PM
+Weather: 70°F
+Condition: Mostly sunny
+
+Input time ~ 18:47:33
+--------------
+Location: paris
+Local time (when submit was pressed): Friday 3:47 AM
+Weather: 62°F
+Condition: Clear
+
+Input time ~ 18:47:45
+--------------
+Location: seattle
+Local time (when submit was pressed): Thursday 6:47 PM
+Weather: 66°F
+Condition: Rain
+

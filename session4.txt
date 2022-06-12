@@ -1,0 +1,7 @@
+Input time ~ 21:32:09
+--------------
+Location: henderson
+Local time (when submit was pressed): Saturday 9:32 PM
+Weather: 101°F
+Condition: Clear
+

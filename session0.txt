@@ -1,0 +1,9 @@
+Input time ~ 20:58:53
+--------------
+Location: kansas
+Local time (when submit was pressed): Tuesday 10:58 PM
+Weather: Flash Flood Warning
+National Weather Service
+67°F
+Condition: Light thunderstorms and rain
+
