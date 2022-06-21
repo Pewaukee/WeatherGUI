@@ -1,0 +1,21 @@
+Input time ~ 18:16:14
+--------------
+Location: new york city
+Local time (when submit was pressed): Monday 9:16 PM
+Weather: 76°F
+Condition: Partly cloudy
+
+Input time ~ 18:21:12
+--------------
+Location: paris
+Local time (when submit was pressed): Tuesday 3:21 AM
+Weather: 64°F
+Condition: Clear
+
+Input time ~ 18:21:49
+--------------
+Location: paris
+Local time (when submit was pressed): Tuesday 3:21 AM
+Weather: 64°F
+Condition: Clear
+

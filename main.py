@@ -44,7 +44,7 @@ class MainApplication(object):
 		self.submit_button.place(x=175,y=75)
 		# submit button
 
-	def quit(self): # to exit the
+	def quit(self): # to exit the program
 		print('quit button pressed')
 		exit(1)
 
@@ -52,11 +52,11 @@ class MainApplication(object):
 		conditions = {'mostly cloudy': 'mostlyCloudy.png', 'mostly sunny': 'mostlySunny.png', 
 			'partly sunny': 'mostlyCloudy.png', 'partly cloudy': 'mostlySunny.png',
 			'rain': 'rain.png', 'snow': 'snow.png', 'sunny': 'sunny.png', 'windy': 'windy.png', 
-			'clear': 'clear.png', 'haze': 'haze.png', 'cloudy': 'cloudy.png'}
+			'clear': 'clear.png', 'haze': 'haze.png', 'cloudy': 'cloudy.png', 'hail': 'hail.png'}
 		for condition, pic in conditions.items(): # don't use conditions, need to access each dict item
 			if (sky.__contains__(condition)):
 				print(condition)
-				path = f"C:/Users/kvsha/Documents/VSCode/Python/WeatherGUI/weatherStates/{pic}"
+				path = f"weatherStates/{pic}"
 				image = Image.open(path).resize((400,400))
 				image = ImageTk.PhotoImage(image)
 				self.canvas.create_image(200, 200, image=image)
@@ -64,7 +64,7 @@ class MainApplication(object):
 
 
 	def websiteReachError(self) -> None: # if an poor http response occurs, return back to white background
-		path = f"C:/Users/kvsha/Documents/VSCode/Python/WeatherGUI/weatherStates/white.png"
+		path = f"weatherStates/white.png"
 		image = Image.open(path).resize((400,400))
 		image = ImageTk.PhotoImage(image)
 		self.canvas.create_image(200, 200, image=image)
@@ -138,13 +138,18 @@ class MainApplication(object):
 	def get_id(self) -> int:
 		return self.id
 
-# create the window
-window = Tk()
-window.geometry("400x400") # window size
-# create a new MainApplication object in order to display stuff on screen
-obj = MainApplication(window) # window -> Tk
-obj.find_session_ID() # use a function call now to set the id for session(id).txt
-window.mainloop()
+def main():
+	# create the window
+	window = Tk()
+	window.geometry("400x400") # window size
+	# create a new MainApplication object in order to display stuff on screen
+	obj = MainApplication(window) # window -> Tk
+	obj.find_session_ID() # use a function call now to set the id for session(id).txt
+	window.mainloop()
+
+if __name__ == '__main__':
+	main()
+
 
 
 """

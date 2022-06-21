@@ -1,0 +1,35 @@
+Input time ~ 18:31:39
+--------------
+Location: new york city
+Local time (when submit was pressed): Monday 9:31 PM
+Weather: 75°F
+Condition: Partly cloudy
+
+Input time ~ 18:31:47
+--------------
+Location: london
+Local time (when submit was pressed): Tuesday 2:31 AM
+Weather: 56°F
+Condition: Clear
+
+Input time ~ 18:31:56
+--------------
+Location: dubai
+Local time (when submit was pressed): Tuesday 5:31 AM
+Weather: 81°F
+Condition: Clear with periodic clouds
+
+Input time ~ 18:32:28
+--------------
+Location: hong kong
+Local time (when submit was pressed): Tuesday 9:32 AM
+Weather: 82°F
+Condition: Cloudy
+
+Input time ~ 18:32:44
+--------------
+Location: cape town
+Local time (when submit was pressed): Tuesday 3:32 AM
+Weather: 58°F
+Condition: Clear with periodic clouds
+

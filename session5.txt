@@ -1,0 +1,7 @@
+Input time ~ 18:03:12
+--------------
+Location: new york city
+Local time (when submit was pressed): Monday 9:03 PM
+Weather: 76°F
+Condition: Partly cloudy
+
