@@ -141,6 +141,7 @@ class MainApplication(object):
 # create the window
 window = Tk()
 window.geometry("400x400") # window size
+# create a new MainApplication object in order to display stuff on screen
 obj = MainApplication(window) # window -> Tk
 obj.find_session_ID() # use a function call now to set the id for session(id).txt
 window.mainloop()
